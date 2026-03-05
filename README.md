@@ -109,4 +109,3 @@ Modern UI Tasarımı: Ön yüz tasarımında, modern web standartlarına uygun o
 - **Çalışma Ortamı:** Ubuntu / Windows
 - **İletişim & Portfolyo:** [[GitHub Profilim]](https://github.com/Alsef34) | [[Linkedn Profilim]](www.linkedin.com/in/ali-sefik-aydin)
 
----
