@@ -97,6 +97,6 @@ Kontrollü Veri Akışı: Kullanıcıdan alınan girdiler doğrudan float tipine
 
 Modern UI Tasarımı: Ön yüz tasarımında, modern web standartlarına uygun olarak Flexbox kullanılmış ve elementler sayfa merkezine hizalanmıştır. CSS @keyframes animasyonlarıyla desteklenen koyu tema ve "Glassmorphism" (cam efekti) kart yapısı, kodlanan mantığa şık ve dikkat çekici bir arayüz kazandırmıştır.
 
----
+
 
 
