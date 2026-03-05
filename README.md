@@ -107,6 +107,6 @@ Modern UI Tasarımı: Ön yüz tasarımında, modern web standartlarına uygun o
 - **Rol:** Fullstack Developer Adayı
 - **Katıldığı Programlar:** Novently - Fullstack Developer Eğitimi, DevOps ve Siber Gü
 - **Çalışma Ortamı:** Ubuntu / Windows
-  
----
 - **İletişim & Portfolyo:** [[GitHub Profilim]](https://github.com/Alsef34) | [[Linkedn Profilim]](www.linkedin.com/in/ali-sefik-aydin)
+
+---
