@@ -71,22 +71,23 @@ proje/
 
 Projeyi yerel ortamınızda test etmek ve çalıştırmak için aşağıdaki adımları izleyebilirsiniz.
 
-### 1. Web Arayüzünü Görüntüleme
+### 🌐 1. Web Arayüzünü Görüntüleme
 Frontend tarafı tamamen statik dosyalardan oluştuğu için ekstra bir sunucu kurulumuna gerek yoktur. Proje klasöründeki `index.html` dosyasını favori web tarayıcınızda açmanız yeterlidir.
 
-### 2. Python Kodunu Çalıştırma
+### 💻 2. Python Kodunu Çalıştırma
 Uygulama arka plan işlemleri için Python 3 gerektirir. İşletim sisteminize göre terminal veya komut satırını açarak aşağıdaki komutları kullanabilirsiniz:
 
-**Ubuntu / Linux Ortamında:**
-Terminali açın ve projenin bulunduğu dizine gidin:
+**🐧 Ubuntu / Linux Ortamında:**
+Terminali açın (`Ctrl` + `Alt` + `T`) ve projenin bulunduğu dizine gidin:
 
 ```bash
-cd /projenin/bulundugu/dizin
-python3 hesap_makinesi.py
+# Proje klasörüne geçiş yapın
+$ cd /projenin/bulundugu/dizin
 
-```
-
+# Python dosyasını çalıştırın
+$ python3 hesap_makinesi.py
 ---
+```
 
 ## 🧠 Kod Yapısı ve Mantık
 Bu proje, temel backend mantığı ile modern frontend sunumunu bir araya getiren bir mimariye sahiptir.
