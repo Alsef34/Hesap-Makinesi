@@ -67,6 +67,8 @@ proje/
 └── README.md            # Bu dokümantasyon dosyası
 
 ```
+
+---
 ## ⚙️ Kurulum ve Çalıştırma
 
 Projeyi yerel ortamınızda test etmek ve çalıştırmak için aşağıdaki adımları izleyebilirsiniz.
@@ -85,6 +87,9 @@ cd /projenin/bulundugu/dizin
 python3 hesap_makinesi.py
 
 ```
+
+---
+
 ## 🧠 Kod Yapısı ve Mantık
 Bu proje, temel backend mantığı ile modern frontend sunumunu bir araya getiren bir mimariye sahiptir.
 
@@ -94,10 +99,14 @@ Kontrollü Veri Akışı: Kullanıcıdan alınan girdiler doğrudan float tipine
 
 Modern UI Tasarımı: Ön yüz tasarımında, modern web standartlarına uygun olarak Flexbox kullanılmış ve elementler sayfa merkezine hizalanmıştır. CSS @keyframes animasyonlarıyla desteklenen koyu tema ve "Glassmorphism" (cam efekti) kart yapısı, kodlanan mantığa şık ve dikkat çekici bir arayüz kazandırmıştır.
 
+---
+
 ## 👨‍💻 Geliştirici
 
 - **Ad Soyad:** Ali Şefik Aydın
 - **Rol:** Fullstack Developer Adayı
 - **Katıldığı Programlar:** Novently - Fullstack Developer Eğitimi, DevOps ve Siber Gü
 - **Çalışma Ortamı:** Ubuntu / Windows
+  
+---
 - **İletişim & Portfolyo:** [[GitHub Profilim]](https://github.com/Alsef34) | [[Linkedn Profilim]](www.linkedin.com/in/ali-sefik-aydin)
