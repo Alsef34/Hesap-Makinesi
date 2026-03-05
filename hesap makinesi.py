@@ -31,7 +31,8 @@ elif islem == "*":
 elif islem == "/":
     sonuc = bolme(sayi1, sayi2)
 else:
-    sonuc = "Geçersiz işlem seçildi."
+    sonuc = "Geçersiz işlem. Lütfen +, -, *, veya / kullanınız."
+
 
 
 print("Sonuç:", sonuc)
