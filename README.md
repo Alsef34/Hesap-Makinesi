@@ -15,7 +15,7 @@ Bu proje, temel programlama mantığı ile modern web tasarımını bir araya ge
 - [Dosya Mimarisi](#-dosya-mimarisi)
 - [Kurulum ve Çalıştırma](#-kurulum-ve-çalıştırma)
 - [Kod Yapısı ve Mantık](#-kod-yapısı-ve-mantık)
-- - [Geliştirici](#-geliştirici)
+- [Geliştirici](#-geliştirici)
 
 
 ---
@@ -100,4 +100,4 @@ Modern UI Tasarımı: Ön yüz tasarımında, modern web standartlarına uygun o
 - **Rol:** Fullstack Developer Adayı
 - **Katıldığı Programlar:** Novently - Fullstack Developer Eğitimi, DevOps ve Siber Gü
 - **Çalışma Ortamı:** Ubuntu / Windows
-- **İletişim & Portfolyo:** [[GitHub Profil Linkin]](https://github.com/Alsef34) | www.linkedin.com/in/ali-sefik-aydin
+- **İletişim & Portfolyo:** [[GitHub Profilim]](https://github.com/Alsef34) | [[Linkedn Profilim]](www.linkedin.com/in/ali-sefik-aydin)
